@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\PP2_Experimental\Task4\Task4\bin\Debug\Task4.exe.config
+C:\Users\HP\Desktop\PP2_Experimental\Task4\Task4\bin\Debug\Task4.exe
+C:\Users\HP\Desktop\PP2_Experimental\Task4\Task4\bin\Debug\Task4.pdb
+C:\Users\HP\Desktop\PP2_Experimental\Task4\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PP2_Experimental\Task4\Task4\obj\Debug\Task4.exe
+C:\Users\HP\Desktop\PP2_Experimental\Task4\Task4\obj\Debug\Task4.pdb
+C:\Users\HP\Desktop\PP2_Experimental\Week1\Task4\Task4\bin\Debug\Task4.exe.config
+C:\Users\HP\Desktop\PP2_Experimental\Week1\Task4\Task4\bin\Debug\Task4.exe
+C:\Users\HP\Desktop\PP2_Experimental\Week1\Task4\Task4\bin\Debug\Task4.pdb
+C:\Users\HP\Desktop\PP2_Experimental\Week1\Task4\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PP2_Experimental\Week1\Task4\Task4\obj\Debug\Task4.exe
+C:\Users\HP\Desktop\PP2_Experimental\Week1\Task4\Task4\obj\Debug\Task4.pdb
