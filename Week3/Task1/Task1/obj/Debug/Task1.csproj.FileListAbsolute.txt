@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\PP2_Experimental\Week3\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\HP\Desktop\PP2_Experimental\Week3\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\HP\Desktop\PP2_Experimental\Week3\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\HP\Desktop\PP2_Experimental\Week3\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\PP2_Experimental\Week3\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PP2_Experimental\Week3\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\HP\Desktop\PP2_Experimental\Week3\Task1\Task1\obj\Debug\Task1.pdb
